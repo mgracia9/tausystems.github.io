@@ -1,0 +1,57 @@
+﻿Ee [MeV],△E/E(FWHM)[%],Charge [pC],Density [/cc],Div[mrad],Color,Ref,Year,Num jets,Plaser [TW],Type,Profile,Injection,File
+70,3,22,1.40E+18,87,red,"Mangles, Nature 431",2004,1,12.5,gas jet,none, ,Mangles_Nature02939_2004.pdf
+86,2,320,1.90E+19,50,red,"Geddes, Nature 431",2004,,9,gas jet + guiding,none,self,Geddes_Nature02900_2004.pdf
+78,3.84,480,1.90E+19,50,red,"Geddes, Nature 431",2004,,9,gas jet + guiding,none,self,Geddes_Nature02900_2004.pdf
+170,20,500,6.00E+18,10,yellow,"Faure, Nature 431",2004,,30,gas jet,none,self,Faure_Nature431_2004.pdf
+1000,5.6,30,4.30E+18,2,red ,"Leemans, Nat. Phys. 2",2006,0,39,capillary,none,self,Leemans_nphys418.pdf
+500,2.5,50,3.50E+18,1.6,red,"Leemans, Nat. Phys. 2",2006,0,20,capillary,none,self,Leemans_nphys418.pdf
+122,2.5,7,6.80E+18,-1,red,"Osterhoff, PRL 101, 085002",2008,0,20,capillary,none,self,Osterhoff_PhysRevLett.101.085002.pdf
+125,2.4,-1,1.00E+19,-1,red,"Brunetti, PRL 105, 215007",2010,,30,gas jet,none,self,Brunetti_PhysRevLett.105.215007.pdf
+2000,-1,63,4.80E+17,-1,red,"Wang, Nat. Comm. 4, 1988",2013,,625,channel,none,self,Wang_ncomms2988.pdf
+1800,-1,34,3.40E+17,-1,red,"Wang, Nat. Comm. 4, 1988",2013,,800,channel,none,self,Wang_ncomms2988.pdf
+950,-1,13,2.10E+17,-1,red,"Wang, Nat. Comm. 4, 1988",2013,,806,channel,none,self,Wang_ncomms2988.pdf
+350,8.5,88,2.10E+18,-1,red ,"Kim, PRL 111, 165002",2013,,434,gas jet,none,self,KimHT_PRL_2013.pdf
+880,22,110,1.10E+18,-1,red ,"Kim, PRL 111, 165002",2013,,885,gas jet,none,self,KimHT_PRL_2013.pdf
+7800,-1,5,2.70E+17,-1,red ,"Gonsalves, PRL 122, 084801",2019,,885,capillary,none,self,Gonsalves_PhysRevLett.122.084801.pdf
+6425,8.1,36.75,3.40E+17,-1,red ,"Gonsalves, PRL 122, 084801",2019,,66,capillary,none,self,Gonsalves_PhysRevLett.122.084801.pdf
+195.1,15,-1,5.00E+18,-1,red ,"Aniculaesi, PRApplied 12, 044041",2019,,66,gas jet,none,self,Anicalaesi_PhysRevApplied.12.044041.pdf
+305.4,10,-1,5.00E+18,-1,red ,"Aniculaesi, PRApplied 12, 044041",2019,,62,gas jet,none,nano,Anicalaesi_PhysRevApplied.12.044041.pdf
+175,-1,-1,1.05E+19,-1,red ,"Aniculaesei, Sci. Rpts. 9, ",2019,,62,gas jet,none,self,Aniculaesi_s41598-019-47677-5.pdf
+263,-1,-1,1.10E+19,-1,red ,"Aniculaesei, Sci. Rpts. 9, ",2019,,5.4,gas jet,none,self,Aniculaesi_s41598-019-47677-5.pdf
+95,10,9.5,1.50E+19,-1,red ,"Shalloo, Nat. Comm. 11",2020,,74,channel,none,ionization,Shalloo_s41467-020-20245.pdf
+216,0.4,338,3.00E+18,-1,red ,"Gotzfried, PRX 10",2020,,74,gas jet,none,shock,Gotzfried_PhysRevX.10.041015.pdf
+232,12,123,3.50E+18,-1,red ,"Gotzfried, PRX 10",2020,,74,gas jet,none,shock,Gotzfried_PhysRevX.10.041015.pdf
+334,11,1400,3.00E+18,-1,red ,"Gotzfried, PRX 10",2020,,200,gas jet,none,shock,Gotzfried_PhysRevX.10.041015.pdf
+810,3.7,16,2.60E+18,-1,red ,"Ke, PRL 126, 214801",2021,,58,gas jet,none,shock,Ke_PhysRevLett.126.214801.pdf
+254,-1,50,9.90E+17,-1,red ,"Jalas et al, PRL, 126, 104801",2021,,47,channel,none,ionization,Jalas_PhysRevLett.126.104801.pdf
+368,2.4,25,2.70E+18,-1,red ,"Maier et al, PRX 10, 031039",2021,,77,channel,none,ionization,Maier_PhysRevX.10.031039.pdf
+490,3,30,2.00E+18,-1,red ,"Wang et al, Nat. 595, 516",2022,,962,gas jet,none,shock,Wang_Nat595-516.pdf
+2450,-1,300,6.00E+17,-1,red ,Aniculaesei,2022,,962,channel,none,self,
+7000,-1,2000,6.00E+17,-1,red ,Aniculaesei,2022,,71,channel,none,nano,
+99,4,46,1.75E+18,-1,red ,BELLA-HTU 22.09 test run,2022,,283,gas jet,none,shock,
+2000,25,-1,0,-1,red ,MUC CALLA 22.12,2022,,1.7,unknown,none,self,
+32,15,0.1,5.70E+19,-1,red ,"Lazzarini, 2023",2023,,-1,unknown,none,self,
+22,9,1,5.70E+19,-1,red ,"Lazzarini, 2023",2023,,-1,unknown,none,self,
+200,0.4,70,,,red ,"Schmid, PhysRevSTAB 13, 091301 (2010)",2010,1,8,gas jet,PhysRST13,shock,Schmid_PhysRevSTAB.13.091301.pdf
+600,1.2,-1,,,red ,"Schmid, PhysRevSTAB 13, 091301 (2010)",2010,1,8,gas jet,PhysRST13,shock,Schmid_PhysRevSTAB.13.091301.pdf
+200,30,7,1.80E+19,15,red ,"Guillaume, PRL 115, 155002 (2015)",2015,1,40,gas jet,PRL115a.png,shock,E-Guillaume_PhysRevLett115155002.pdf
+300,30,17,1.80E+19,15,red ,"Guillaume, PRL 115, 155002 (2015)",2015,1,40,gas jet,PRL115b.png,shock,E-Guillaume_PhysRevLett115155002.pdf
+530,1,10,8.50E+18,0.2,red ,"Wang, PRL 117, 124801 (2016)",2016,2,100,double gas jet,PRL117.png,shock,Wang_PhysRevLett.117.124801.pdf
+580,1,70,8.50E+18,0.2,red ,"Wang, PRL 117, 124801 (2016)",2016,2,120,double gas jet,PRL117.png,shock,Wang_PhysRevLett.117.124801.pdf
+400,9.7,34,2.60E+18,1,green,"Ke, Appl. Sci. 2021, 11, 2560",2021,1,100,gas jet,Appl2021.png,shock,KeL_ApplSci_2021.pdf
+800,0.5,34,2.60E+18,0.1,green,"Ke, Appl. Sci. 2021, 11, 2561",2021,1,120,gas jet,Appl2021.png,shock,KeL_ApplSci_2021.pdf
+25,8,24,,1.5,green,"Tsai, Phys. Plasmas 25, 043107 (2018) ",2018,1,44,gas jet,Tsia.png,shock,TsaiHE_POP_2018.pdf
+80,8,16,,1.5,green,"Tsai, Phys. Plasmas 25, 043107 (2018) ",2018,1,44,gas jet,Tsia.png,shock,TsaiHE_POP_2018.pdf
+600,,620,6.00E+18,8,red ,"Li, Phys Plasmas 24, 023108 (2017)",2017,1,80,gas jet,Uniform,uniform,Li_Li_PhysPlasmas24_023108_2017.pdf
+249,8,68,5.00E+18,1,red,"Li, Phys Plasmas 24, 023108 (2017)",2017,1,80,gas jet,Uniform,uniform,Li_Li_PhysPlasmas24_023108_2017.pdf
+367,10.6,87,,1,green,"WuY, ApplSci 2019 2565 (2019)",2019,2,100,double gas jet,WuY_ApplSci_2019.png,shock,WuY_ApplSci_2019.pdf
+36,1.4,9,,1,green,"WuY, ApplSci 2019 2565 (2019)",2019,2,100,double gas jet,WuY_ApplSci_2019.png,shock,WuY_ApplSci_2019.pdf
+640,1.1,11,,1,green,"WuY, ApplSci 2019 2565 (2019)",2019,2,100,double gas jet,WuY_ApplSci_2019.png,shock,WuY_ApplSci_2019.pdf
+12,69,8.5,2.50E+18,10,red ,"Buck, PRL 110, 185006 (2013)",2013,1,27,gas jet,Buck_PRL110_2013.png,shock,Buck_PhysRevLett.110.185006.pdf
+25,15,6.5,6.00E+18,10,yellow,"Buck, PRL 110, 185006 (2013)",2013,1,27,gas jet,Buck_PRL110_2013.png,shock,Buck_PhysRevLett.110.185006.pdf
+54,9.6,6.2,5.00E+18,10,yellow,"Buck, PRL 110, 185006 (2013)",2013,1,27,gas jet,Buck_PRL110_2013.png,shock,Buck_PhysRevLett.110.185006.pdf
+95,8.7,6,2.80E+18,10,green,"Buck, PRL 110, 185006 (2013)",2013,1,27,gas jet,Buck_PRL110_2013.png,shock,Buck_PhysRevLett.110.185006.pdf
+119,4.7,1.5,2.70E+18,10,green,"Buck, PRL 110, 185006 (2013)",2013,1,27,gas jet,Buck_PRL110_2013.png,shock,Buck_PhysRevLett.110.185006.pdf
+133,4.8,1.2,3.30E+18,10,green,"Buck, PRL 110, 185006 (2013)",2013,1,27,gas jet,Buck_PRL110_2013.png,shock,Buck_PhysRevLett.110.185006.pdf
+49,10,90,1.50E+18,10,green,"Buck, PRL 110, 185006 (2013)",2013,1,27,gas jet,Buck_PRL110_2013.png,shock,Buck_PhysRevLett.110.185006.pdf
+550,10,50,,,GREEN,,2023,,8,gas jet,,shock,

@@ -1,0 +1,20 @@
+---
+layout: default
+title:  "Projects"
+date:   2016-02-12 17:50:00
+categories: main
+---
+
+Click on the project you like to explore:
+
+[Gas jet design]({{ site.baseurl }}{% link _posts/2016-03-12-sample-content.markdown %})
+
+[Data literature data bases]({{ site.baseurl }}{% link _posts/2016-03-12-sample-content.markdown %})
+
+
+[home]({{ site.baseurl }}{% link index.html %})
+
+
+
+[jekyll-gh]: https://github.com/mojombo/jekyll
+[jekyll]:    http://jekyllrb.com
