@@ -1,7 +1,7 @@
 # Setup
 title:        Tau Systems theory group
 tagline:      created by M. Gracia-Linares
-baseurl:      ""
+baseurl:      /tausystems.github.io
 paginate:     1
 locale:       "en"
 
